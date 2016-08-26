@@ -1,0 +1,21 @@
+hardware
+guest virtual machine
+host
+vm
+devices
+device
+client
+server
+operating system
+version
+product
+affected version
+affected product
+affected versions
+affected products
+vulnerable 
+vulnerable software
+vulnerable hardware
+affected software
+affected hardware
+software

@@ -1,0 +1,52 @@
+consequence
+consequences
+impact
+impacts
+secondary impact
+further impact
+additional impact
+secondary consequence
+further consequence
+additional consequence
+exposure
+credentials
+unauthorized
+unauthenticated
+remote access
+obtain sensitive information from process memory
+obtain sensitive information
+obtain information
+obtain data
+allow remote authenticated users to bypass intended access restrictions and execute commands
+bypass intended access restrictions
+bypass execute commands
+execute arbitrary code
+information disclosure
+privacy breach
+data leak
+denial of service
+denial-of-service
+dos
+Sensitive Data Exposure
+bypass intended access restrictions
+execute commands 
+execute code
+execute arbitrary script
+execute arbitrary code 
+obtain sensitive information 
+reading private keys
+reading confidential data
+reading confidential 
+bypass device Access Control Entries 
+bypass Access Control
+privileges of the victim
+bypass an intended password requirement
+bypass intended sandbox restrictions 
+bypass intended restrictions 
+write to arbitrary files
+write to files
+write to arbitrary documents 
+read from arbitrary files 
+read from files 
+read from arbitrary documents
+read from documents

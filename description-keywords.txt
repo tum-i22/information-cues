@@ -1,0 +1,11 @@
+name
+names
+cause
+causes
+available information
+different from vulnerability
+CVE
+vulnerability
+distinct from
+other 
+product
