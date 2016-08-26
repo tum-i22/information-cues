@@ -13,3 +13,44 @@ physically proximate attackers
 physically proximate attacker
 physically close attackers
 physically close attacker
+authorized
+authenticated
+spoofing
+spoof
+tempering
+temper
+impersionation
+impersionate
+repudiation
+repudiate
+elevation of privilege
+persuading
+injection
+string formatting
+inject SQL code
+inject code 
+manipulate data pointers
+manipulate function pointers
+manipulate pointers
+crafted application
+crafted service
+replace an XML parser
+crafted iWork file
+crafted file 
+crafted environment
+cache poisoning
+upload a malicious SWF file
+upload a malicious file 
+upload a malicious document
+upload a malicious 
+crafted links
+open a malicious PDF file
+open a malicious file
+open a malicious 
+convincing a victim
+malicious document
+malicious file
+relies upon the user to open it
+relies upon the user 
+leveraging access
+birthday attack
